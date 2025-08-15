@@ -17,4 +17,4 @@ Limitations of VPN:
 Reduced Internet Speed,
 Complex setup and Configurations,
 Blocked Access to certain website and 
-Cost Consideration
+Cost Consideration.
